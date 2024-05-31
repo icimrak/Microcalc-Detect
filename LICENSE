@@ -19,3 +19,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Over and above the legal restrictions imposed by this license, if you use this software for an academic publication then you are obliged to provide proper attribution. This can be to this code directly,
+
+I. Cimrak. Microcalc-Detect, github.com/icimrak/Microcalc-Detect.
+or to the paper that describes it
+
+Adam Mracko, Ivan Cimrak and Lucia Vanovcanova. Detection of Suspicious Microcalcification Clusters in Mammography: A Patch Classification Approach. BioMedInformatics, (2024), submitted.
+or (ideally) both.

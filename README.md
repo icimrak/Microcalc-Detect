@@ -1,7 +1,10 @@
 # Microcalc-Detect
 Convolutional network model trained for detection of microcalcifications using patch classification approach
 
-The model is available in PRETRAINED_RESNET101_ADAM_LR5e-06_WD0.001_BS8.tar file. It requires PyTorch libraries.
+The files must be concatenated by e.g. the macos/linux command
+cat model.* > PRETRAINED_RESNET101_ADAM_LR5e-06_WD0.001_BS8.tar
+
+The model is saved in PRETRAINED_RESNET101_ADAM_LR5e-06_WD0.001_BS8.tar file. It requires PyTorch libraries.
 Loading of the model:
 weights = torch.load(weights_path)
 model.load_state_dict(weights["state_dict"])
